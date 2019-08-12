@@ -185,7 +185,7 @@ embargo el tiempo y los recursos que tienes son limitados. Tendrás que elegir
 bien qué actividades realizarás.
 ![canvas](Imagenes/canvas.jpg)
 ![journey](Imagenes/journey.jpg)
-![empathy](Imagenes/estadisticas.jpg)
+![empathy](Imagenes/empathy.jpg)
 
 ### 3) Planteamiento y validación de la solución
 
