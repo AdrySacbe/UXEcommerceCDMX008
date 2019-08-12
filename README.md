@@ -1,6 +1,6 @@
 # Plataforma de ventas en línea
 
-## Preámbulo
+## Preámbulo :)
 
 
 ![canvas](Imagenes/canvas.jpg) 
