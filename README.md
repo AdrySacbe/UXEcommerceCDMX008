@@ -2,9 +2,6 @@
 
 ## Preámbulo 
 
-
-![canvas](Imagenes/canvas.jpg) 
-
 Los modelos de negocio que hicieran exitosas a
 empresas en el pasado, no son los mismos que pueden
 llevar al éxito a las empresas en la actualidad.
