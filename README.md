@@ -1,6 +1,6 @@
 # Plataforma de ventas en línea
 
-## Preámbulo :)
+## Preámbulo 
 
 
 ![canvas](Imagenes/canvas.jpg) 
@@ -70,6 +70,7 @@ Esperamos que en este proyecto puedas entender las necesidades y falencias de
 las empresas, aprender y empezar a empaparte de los posibles modelos de negocio
 así como investigar a su audiencia, los usuarios que consumen sus productos,
 entendiendo sus preferencias y contexto en el que lo hacen.
+![estadisticas](Imagenes/estadisticas.jpg) 
 
 De la misma manera deberás definir cuál es la mejor forma de ofrecerle los
 productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
