@@ -73,6 +73,7 @@ entendiendo sus preferencias y contexto en el que lo hacen.
 ![estadisticas](Imagenes/estadisticas.jpg) 
 ![dificultades compra online](Imagenes/dificultades compra online.jpg) 
 ![importancia](Imagenes/importancia.jpg) 
+![relevancia](Imagenes/relevancia.jpg) 
 
 De la misma manera deberás definir cuál es la mejor forma de ofrecerle los
 productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
