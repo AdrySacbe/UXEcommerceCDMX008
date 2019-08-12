@@ -265,15 +265,38 @@ con las actividades planteadas.
 Al definir el producto recuerda pensar en:
 
 * Quiénes son los principales usuarios de producto
+
+Los principales usuarios del productos son Hombres entre 20-30 años, los cuales tienen un gran interes por adquirir productos unicos hechos en Mexico para asi poder contribuir con el desarrollo de la industria Mexicana.
+
 * Cuáles son los objetivos del negocio en relación con el producto
+
+Tener mas alcanze por medio de una plataforma digital que ayude a dar a conocer a mas gente el producto para asi poder tener un incremento en sus ventas.
+
 * Cuáles son los objetivos de estos usuarios en relación con el producto
+
+Tener una plataforma en donde la interfaz sea amigable con el usuario, tener productos de calidad, a un precio accesible.
+
 * Cuál será la propuesta de valor del sitio que vas a crear
+
+Una plataforma que permita al usuario elegir de una forma sencilla el calzado que desee.
+
 * Cuáles son los contenidos que el usuarios quiere ver, la información que
   buscarían para convencerse de comprar, confiar en la empresa que lo ofrece,
   encontrar lo que busca y comprarlo
+  
+  Colores, Vistas, Foot Lab, Materiales, Horma, Recomendaciones, Todo con respecto al calzado que ellos eligan.
+  
 * Cómo vas a distribuir y entregar esos contenidos
+
+Por medio de nuestra Pagina.
+
 * Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
+
+Entra a nuestra plataforma digital, navega por las cuatro lineas de clazado, elige el producto y sus especificaciones (Colores, Vistas, Foot Lab, Materiales, Horma, Recomendaciones), lo agrega al carrito y lo compra
+
 * Cómo crees que el producto les está resolviendo sus problemas
+
+Por medio de una plataforma en la cual les damos las suficientes epecificaciones y facilidades al elegir su clazado y en dado caso de que no sea el correcto tener un cambio 15 dias posteriores a su compra.
 
 ### 3) Prototipo de alta fidelidad
 
