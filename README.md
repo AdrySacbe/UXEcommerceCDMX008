@@ -71,7 +71,7 @@ las empresas, aprender y empezar a empaparte de los posibles modelos de negocio
 así como investigar a su audiencia, los usuarios que consumen sus productos,
 entendiendo sus preferencias y contexto en el que lo hacen.
 ![estadisticas](Imagenes/estadisticas.jpg) 
-![dificultades compra online](Imagenes/dificultades compra online.jpg) 
+![dificultades%20compra%20online](Imagenes/dificultades%20compra%20online.jpg) 
 ![importancia](Imagenes/importancia.jpg) 
 ![relevancia](Imagenes/relevancia.jpg) 
 
