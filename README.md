@@ -186,6 +186,9 @@ usuarios. Luego de entender el problema, tendrás que plantear cómo es que vas 
 resolver dicho problema. Para ello puedes realizar muchas actividades, sin
 embargo el tiempo y los recursos que tienes son limitados. Tendrás que elegir
 bien qué actividades realizarás.
+![canvas](Imagenes/canvas.jpg)
+![journey](Imagenes/journey.jpg)
+![empathy](Imagenes/estadisticas.jpg)
 
 ### 3) Planteamiento y validación de la solución
 
@@ -306,6 +309,9 @@ herramientas como Adobe XD, etc. Si eliges Figma tendrás que usar una
 herramienta adicional como Marvel o Invision. Recuerda que el diseño que
 trabajes debe seguir los fundamentos de visual design, como: contraste,
 alineación, jerarquía, entre otros.
+
+Nosotras decidimos usar Figma para realizar el prototipo de alta fidelidad.
+https://www.figma.com/file/qeg69uR9sOyvkMAvDDRHcw/Tribook?node-id=161%3A82
 
 ## Hacker edition
 
